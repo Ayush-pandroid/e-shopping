@@ -1,10 +1,10 @@
 # 🛍️ VITyarthi Project: E-Commerce Product Store 
-~Interactive CLI Interface: Built as a terminal-based E-Commerce application in Python for the VITyarthi project evaluation.
-~Product Catalog Browsing: Allows users to view an extensive catalog of products complete with pricing and stock details.   
-~Search & Category Filtering: Enables quick filtering of catalog items by specific keywords or categories.   
-~Real-Time Shopping Cart: Supports managing items, updating quantities, and calculating totals in real time.   
-~Checkout & Inventory Management: Processes checkouts seamlessly while automatically updating product stock levels.   
-~Persistent Order History: Tracks and saves past order receipts across sessions using local JSON file storage.   
+**Interactive CLI Interface**: Built as a terminal-based E-Commerce application in Python for the VITyarthi project evaluation.
+**Product Catalog Browsing**: Allows users to view an extensive catalog of products complete with pricing and stock details.   
+**Search & Category Filtering**: Enables quick filtering of catalog items by specific keywords or categories.   
+**Real-Time Shopping Cart**: Supports managing items, updating quantities, and calculating totals in real time.   
+**Checkout & Inventory Management**: Processes checkouts seamlessly while automatically updating product stock levels.   
+**Persistent Order History**: Tracks and saves past order receipts across sessions using local JSON file storage.   
 ## 📌 Features
 
 * **Interactive Catalog Browsing:** View 50+ categorized products with pricing, stock levels, and emojis.
